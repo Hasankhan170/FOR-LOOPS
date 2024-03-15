@@ -107,3 +107,66 @@
 // }
 
 // done 
+
+// Q.8
+
+// const A =["cookie" , "chips" , "patties" , "cake"]
+// const userInput = prompt("please place order")
+// const found = false;
+
+// for(let i = 0; i < A.length ; I++){
+//     if(A[i]===userInput){
+//         found = true;
+//         break;
+//     }
+// }
+// if(found){
+//     console.log(userInput + "is found in the list!")
+// }else{
+//     console.log(userInput + "is not found in list!")
+// }
+
+// not done 
+
+// Q.9
+
+// var A = [90,67,109,672,787,653];
+// var largestNumber = Math.max(...A)
+
+// document.write("THE LARGEST NUMBER OF ARRAY IS" +largestNumber)
+// done 
+
+// Q.10
+
+// var A = [90,67,109,672,787,653];
+// var smallNumber = Math.min(...A)
+
+// document.write("THE LARGEST NUMBER OF ARRAY IS" +smallNumber)
+// done 
+
+
+
+// Q.11
+
+// var A = [90,67,109,672,787,653];
+// var largestNumber = Math.max(...A)
+// var smallNumber = Math.min(...A)
+
+
+// document.write("THE LARGEST NUMBER OF ARRAY IS" +largestNumber)
+// document.write("<br>")
+// document.write("THE LARGEST NUMBER OF ARRAY IS" +smallNumber)
+
+
+// done 
+
+// Q.12
+
+
+// for(let i=1; i<=100 ; i++){
+//     if(i % 5===0){
+//         console.log(i)
+//     }
+// }
+
+// done 
